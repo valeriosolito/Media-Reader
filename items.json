@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "tipo": "film",
+            "id": 1,
+            "nome": "8½",
+            "descrizione": "8½ è un film del 1963 co-scritto e diretto da Federico Fellini. La pellicola ottenne, tra gli altri riconoscimenti, l'Oscar al miglior film in lingua straniera e quello ai migliori costumi nel 1964. Vede come protagonista Marcello Mastroianni nel ruolo di Guido Anselmi, un regista confuso alle prese con la sua prossima opera",
+            "imgpath": ":/icons/itemcovers/8mezzo.jpg",
+            "anno": 1963,
+            "regista": "Federico Fellini",
+            "produttore": "Angelo Rizzoli",
+            "durata": 138
+        },
+        {
+            "tipo": "film",
+            "id": 2,
+            "nome": "Toro Scatenato",
+            "descrizione": "Toro scatenato (Raging Bull) è un film del 1980 diretto da Martin Scorsese. È fra le pellicole più importanti nate dalla collaborazione tra il regista Scorsese e l'attore Robert De Niro, nonché uno dei migliori film del regista stesso. Ispirato dall'autobiografia del pugile Jake LaMotta, Raging Bull: My Story, adattata da Paul Schrader e Mardik Martin, il film fu quasi interamente girato in bianco e nero",
+            "imgpath": ":/icons/itemcovers/toroscatenato.jpg",
+            "anno": 1980,
+            "regista": "Martin Scorsese",
+            "produttore": "Irwin Winkler",
+            "durata": 129
+        },
+        {
+            "tipo": "film",
+            "id": 3,
+            "nome": "Si Alza il Vento",
+            "descrizione": "Si alza il vento (風立ちぬ, Kaze tachinu) è un film d'animazione del 2013 scritto e diretto da Hayao Miyazaki. La pellicola è l'adattamento cinematografico dell'omonimo manga dello stesso Miyazaki, a sua volta vagamente ispirato all'omonimo romanzo di Tatsuo Hori. Si tratta di un'opera semi-biografica che rielabora in maniera fittizia un periodo della vita di Jirō Horikoshi (1903–1982), progettista e inventore del Mitsubishi A5M e del modello successivo Mitsubishi A6M  Zero, gli aerei da caccia usati dalla Marina imperiale giapponese durante la seconda guerra mondiale.",
+            "imgpath": ":/icons/itemcovers/sialzailvento.jpg",
+            "anno": 2013,
+            "regista": "Hayao Miyazaki",
+            "produttore": "Toshio Suzuki",
+            "durata": 126
+        },
+        {
+            "tipo": "fumetto",
+            "id": 4,
+            "nome": "Watchmen",
+            "descrizione": "Watchmen è una miniserie a fumetti scritta dall'autore britannico Alan Moore e illustrata dal suo connazionale Dave Gibbons. È stata pubblicata in dodici albi mensili dalla statunitense DC Comics tra il 1986 e il 1987 e raccolta in volume unico nel 1987. La prima edizione italiana venne pubblicata come inserto della rivista Corto Maltese della Rizzoli tra il 1988 e il 1990, e nel 1993 seguì l'edizione in volume brossurato. Nel corso degli anni l'opera è stata edita in altre versioni anche da Play Press, Planeta DeAgostini e RW Edizioni, fino alla più recente della Panini Comics.",
+            "imgpath": ":/icons/itemcovers/watchmen.jpg",
+            "anno": 1986,
+            "autore": "Alan Moore",
+            "disegnatore": "Dave Gibbons",
+            "pagine": 464,
+            "editore": "Panini Comics"
+        },
+        {
+            "tipo": "fumetto",
+            "id": 5,
+            "nome": "Ping Pong",
+            "descrizione": "Ping Pong (ピンポン, Pin Pon) è un manga seinen scritto e disegnato da Taiyō Matsumoto serializzato sulla rivista Big Comic Spirits di Shōgakukan dal 1996 al 1997, e raccolto in cinque volumi. Nel 2002 ne fu tratto un film omonimo. Un adattamento anime prodotto da Tatsunoko Production e diretto da Masaaki Yuasa è stato trasmesso dall'11 aprile al 20 giugno 2014 nel contenitore noitaminA di Fuji TV.",
+            "imgpath": ":/icons/itemcovers/pingpong.jpg",
+            "anno": 1996,
+            "autore": "Taiyō Matsumoto",
+            "disegnatore": "Taiyō Matsumoto",
+            "pagine": 1044,
+            "editore": "JPop"
+        },
+        {
+            "tipo": "fumetto",
+            "id": 6,
+            "nome": "Fuochi",
+            "descrizione": "<Là ho rinunciato ad un'idea cinematografica del fumetto, alla necessità che mostrasse tutto, il movimento, eccetera, per lasciare al lettore più lavoro interpretativo> ha scritto Mattotti a proposito del suo ormai leggendario Fuochi, introvabile da molti anni. Una nave da guerra indaga sul mistero di alcuni mercantili affondati attorno alle coste di un'isola. Ma non si tratta di una missione qualsiasi. La discesa a terra del tenente Assenzio, protagonista, dà inizio a un viaggio senza ritorno. Un viaggio inferiore, un viaggio nell'inconscio. Dove il colpo di scena finale scardina ogni possibile risposta.",
+            "imgpath": ":/icons/itemcovers/fuochi.jpg",
+            "anno": 1984,
+            "autore": "Lorenzo Mattotti",
+            "disegnatore": "Lorenzo Mattotti",
+            "pagine": 70,
+            "editore": "Einaudi"
+        },
+        {
+            "tipo": "album",
+            "id": 7,
+            "nome": "To Pimp a Butterfly",
+            "descrizione": "To Pimp a Butterfly è il terzo album in studio del rapper statunitense Kendrick Lamar, pubblicato il 15 marzo 2015 dalla TDE, Aftermath e Interscope.Pubblicato in contemporanea all'ascesa del movimento Black Lives Matter, si tratta di un concept album influenzato da stili musicali tipicamente neri come il soul, gospel, funk, jazz e musica psichedelica, e che esplora una grande quantità di temi cari alla cultura afroamericana, quali il razzismo e le disuguaglianze sociali, vertendo anche su esperienze dolorosamente biografiche vissute dal rapper, come il conflitto interiore, il rapporto con il denaro, la celebrità, l'alcolismo, la depressione e l'avvicinamento a Dio.",
+            "imgpath": ":/icons/itemcovers/topimp.jpg",
+            "anno": 2015,
+            "artista": "Kendrick Lamar",
+            "label": "TDE",
+            "durata": 78,
+            "tracce": 16
+        },
+        {
+            "tipo": "album",
+            "id": 8,
+            "nome": "Acabou Chorare",
+            "descrizione": "Acabou Chorare è il secondo album in studio del gruppo brasiliano di rock e MPB Novos Baianos. L’album è stato pubblicato nel 1972 da Som Livre, dopo il debutto del gruppo, É Ferro na Boneca (1970), che aveva ottenuto un successo moderato. Durante le registrazioni, il gruppo si ispirò a vari artisti contemporanei dell’epoca, come Jimi Hendrix, João Gilberto e Assis Valente. Inoltre, Gilberto influenzò profondamente il sound dell’album, in quanto servì da mentore del gruppo durante le sessioni di registrazione. L’album fu scritto e registrato come risposta alla musica brasiliana contemporanea degli anni ’70, che spesso trattava temi malinconici, anche a causa della dittatura militare brasiliana allora in corso.",
+            "imgpath": ":/icons/itemcovers/acabou.jpg",
+            "anno": 1972,
+            "artista": "Novos Baianos",
+            "label": "Som Livre",
+            "durata": 39,
+            "tracce": 10
+        },
+        {
+            "tipo": "album",
+            "id": 9,
+            "nome": "The Dark Side of the Moon",
+            "descrizione": "The Dark Side of the Moon è l'ottavo album in studio del gruppo musicale britannico Pink Floyd, pubblicato il 1º marzo 1973 negli Stati Uniti d'America dalla Capitol Records e il 16 dello stesso mese nel Regno Unito dalla Harvest Records.L'album rappresenta l'approdo di numerose sperimentazioni musicali che i Pink Floyd andavano da tempo operando sia nei loro concerti che nelle registrazioni, pur presentando in misura relativamente ridotta rispetto al passato le lunghe parti strumentali che erano diventate una caratteristica peculiare del gruppo, lasciando così più ampio spazio ai testi - scritti da Roger Waters - tutti incentrati sul tema filosofico degli aspetti che sfuggono al controllo razionale dell'animo umano, e ne costituiscono perciò il lato buio, cui il titolo metaforicamente fa riferimento.",
+            "imgpath": ":/icons/itemcovers/darkside.jpg",
+            "anno": 1972,
+            "artista": "Pink Floyd",
+            "label": "Harvest/Capitol",
+            "durata": 42,
+            "tracce": 10
+        }
+    ] 
+}

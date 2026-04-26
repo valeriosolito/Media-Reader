@@ -1,0 +1,1 @@
+ho usato qmake, e make e poi ./mediaPAO per runnare il progetto sul qt creator della macchina virtuale, una volta dentro ho usato load file con il file items.json così da caricare degli esempi nella biblioteca virtuale.

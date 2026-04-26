@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/interface/qmark.png</file>
+        <file>icons/interface/new.png</file>
+        <file>icons/interface/save.png</file>
+        <file>icons/interface/load.png</file>
+        <file>icons/interface/shortcuts.png</file>
+        <file>icons/interface/add.png</file>
+        <file>icons/itemcovers/8mezzo.jpg</file>
+        <file>icons/itemcovers/toroscatenato.jpg</file>
+        <file>icons/itemcovers/sialzailvento.jpg</file>
+        <file>icons/itemcovers/topimp.jpg</file>
+        <file>icons/itemcovers/acabou.jpg</file>
+        <file>icons/itemcovers/darkside.jpg</file>
+        <file>icons/itemcovers/fuochi.jpg</file>
+        <file>icons/itemcovers/pingpong.jpg</file>
+        <file>icons/itemcovers/watchmen.jpg</file>
+    </qresource>
+</RCC>
